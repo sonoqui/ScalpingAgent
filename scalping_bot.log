@@ -1,0 +1,882 @@
+2025-09-01 20:53:02,577 [ERROR] Failed to connect to Google Sheets: 
+2025-09-01 20:54:53,996 [INFO] Successfully connected to Google Sheets
+2025-09-01 20:54:53,997 [INFO] Initialized Pushover client
+2025-09-01 20:54:53,998 [INFO] Starting cycle at 2025-09-01T20:54:53.997997
+2025-09-01 20:54:54,398 [INFO] Retrieved 5 rows from Google Sheets
+2025-09-01 20:54:54,399 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 20:54:55,344 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 20:54:55,347 [INFO] Processing alert: sell_signal, Price: $110328.00, Current Price: $110328.00
+2025-09-01 20:54:55,347 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 20:55:05,348 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 20:55:15,361 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 20:55:25,362 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 20:55:35,363 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 20:55:45,364 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 20:55:55,365 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 20:56:05,367 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 20:56:15,368 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 20:56:25,369 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 20:56:35,370 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 20:56:45,371 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 20:56:55,372 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 20:57:05,373 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 20:57:15,374 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 20:57:25,375 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 20:57:42,431 [INFO] Successfully connected to Google Sheets
+2025-09-01 20:57:42,431 [INFO] Initialized Pushover client
+2025-09-01 20:57:42,432 [INFO] Starting cycle at 2025-09-01T20:57:42.432234
+2025-09-01 20:57:42,885 [INFO] Retrieved 6 rows from Google Sheets
+2025-09-01 20:57:42,885 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 20:57:43,874 [INFO] Fetched Bitso price: $110356.00
+2025-09-01 20:57:43,876 [INFO] Processing alert: sell_signal, Price: $110405.00, Current Price: $110356.00
+2025-09-01 20:57:43,876 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 20:57:53,877 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 20:58:03,879 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 20:58:13,880 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 20:58:23,881 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 20:58:33,881 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 20:58:43,882 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 20:58:53,883 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 20:59:03,884 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 20:59:13,885 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 20:59:23,886 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 20:59:33,887 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 20:59:43,888 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 20:59:53,889 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:00:03,890 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:00:13,891 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:00:23,892 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:00:33,893 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:00:42,432 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:00:42,433 [INFO] Starting cycle at 2025-09-01T21:00:42.433231
+2025-09-01 21:00:43,073 [INFO] Retrieved 6 rows from Google Sheets
+2025-09-01 21:00:43,074 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:00:44,096 [INFO] Fetched Bitso price: $110352.00
+2025-09-01 21:00:44,098 [INFO] Processing alert: sell_signal, Price: $110405.00, Current Price: $110352.00
+2025-09-01 21:00:44,099 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:00:54,099 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:01:04,100 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:01:14,102 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:01:24,103 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:01:34,104 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:01:44,105 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:01:54,105 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:02:04,107 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:02:14,108 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:02:24,108 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:02:34,109 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:02:44,110 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:02:54,110 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:03:04,111 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:03:14,112 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:03:24,113 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:03:34,113 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:03:42,433 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:03:42,434 [INFO] Starting cycle at 2025-09-01T21:03:42.434386
+2025-09-01 21:03:42,859 [INFO] Retrieved 8 rows from Google Sheets
+2025-09-01 21:03:42,859 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:03:43,681 [INFO] Fetched Bitso price: $110270.00
+2025-09-01 21:03:43,682 [INFO] Processing alert: sell_signal, Price: $110243.00, Current Price: $110270.00
+2025-09-01 21:03:43,683 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:03:53,683 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:04:03,684 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:04:13,685 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:04:23,686 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:04:33,687 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:04:43,689 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:04:53,689 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:05:03,690 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:05:13,691 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:05:23,692 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:05:33,692 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:05:43,694 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:05:53,695 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:06:03,696 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:06:13,697 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:06:23,698 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:06:33,698 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:06:42,435 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:06:42,435 [INFO] Starting cycle at 2025-09-01T21:06:42.435943
+2025-09-01 21:06:42,999 [INFO] Retrieved 8 rows from Google Sheets
+2025-09-01 21:06:43,001 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:06:43,931 [INFO] Fetched Bitso price: $110342.00
+2025-09-01 21:06:43,933 [INFO] Processing alert: sell_signal, Price: $110243.00, Current Price: $110342.00
+2025-09-01 21:06:43,934 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:06:53,934 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:07:03,935 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:07:13,936 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:07:23,937 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:07:33,939 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:07:43,939 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:07:53,940 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:08:03,941 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:08:13,941 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:08:23,942 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:08:33,943 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:08:43,944 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:08:53,945 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:09:03,945 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:09:13,946 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:09:23,948 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:09:33,949 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:09:42,436 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:09:42,437 [INFO] Starting cycle at 2025-09-01T21:09:42.437277
+2025-09-01 21:09:43,079 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:09:43,079 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:09:43,838 [INFO] Fetched Bitso price: $110241.00
+2025-09-01 21:09:43,840 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110241.00
+2025-09-01 21:09:43,841 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:09:53,842 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:10:03,844 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:10:13,845 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:10:23,846 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:10:33,847 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:10:43,849 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:10:53,850 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:11:03,851 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:11:13,853 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:11:23,854 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:11:33,884 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:11:43,888 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:11:53,889 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:12:03,899 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:12:13,933 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:12:23,935 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:12:33,935 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:12:42,439 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:12:42,439 [INFO] Starting cycle at 2025-09-01T21:12:42.439716
+2025-09-01 21:12:42,873 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:12:42,874 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:12:43,594 [INFO] Fetched Bitso price: $110329.00
+2025-09-01 21:12:43,596 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110329.00
+2025-09-01 21:12:43,597 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:12:53,597 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:13:03,598 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:13:24,146 [INFO] Successfully connected to Google Sheets
+2025-09-01 21:13:24,147 [INFO] Initialized Pushover client
+2025-09-01 21:13:24,147 [INFO] Starting cycle at 2025-09-02T04:13:24.147286+00:00
+2025-09-01 21:13:24,763 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:13:24,764 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:13:25,786 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:13:25,790 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:13:25,791 [ERROR] Failed to parse last signal time 9/1/2025 21:06:00: Invalid isoformat string: '9/1/2025 21:06:00'
+2025-09-01 21:13:25,791 [INFO] Awaiting next execution... 99 seconds remaining
+2025-09-01 21:13:35,792 [INFO] Awaiting next execution... 89 seconds remaining
+2025-09-01 21:13:45,804 [INFO] Awaiting next execution... 79 seconds remaining
+2025-09-01 21:13:55,822 [INFO] Awaiting next execution... 69 seconds remaining
+2025-09-01 21:14:05,829 [INFO] Awaiting next execution... 59 seconds remaining
+2025-09-01 21:14:15,830 [INFO] Awaiting next execution... 49 seconds remaining
+2025-09-01 21:14:25,831 [INFO] Awaiting next execution... 39 seconds remaining
+2025-09-01 21:14:35,833 [INFO] Awaiting next execution... 29 seconds remaining
+2025-09-01 21:14:45,840 [INFO] Awaiting next execution... 19 seconds remaining
+2025-09-01 21:14:58,958 [INFO] Successfully connected to Google Sheets
+2025-09-01 21:14:58,959 [INFO] Initialized Pushover client
+2025-09-01 21:14:58,959 [INFO] Starting cycle at 2025-09-02T04:14:58.959446+00:00
+2025-09-01 21:14:59,335 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:14:59,337 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:00,300 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:00,308 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:00,314 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:00,314 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:00,314 [INFO] Starting cycle at 2025-09-02T04:15:00.314900+00:00
+2025-09-01 21:15:00,727 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:00,728 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:01,628 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:01,630 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:01,631 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:01,631 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:01,631 [INFO] Starting cycle at 2025-09-02T04:15:01.631863+00:00
+2025-09-01 21:15:02,048 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:02,049 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:03,010 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:03,012 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:03,012 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:03,012 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:03,013 [INFO] Starting cycle at 2025-09-02T04:15:03.013172+00:00
+2025-09-01 21:15:03,481 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:03,481 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:04,549 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:04,551 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:04,551 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:04,551 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:04,552 [INFO] Starting cycle at 2025-09-02T04:15:04.552206+00:00
+2025-09-01 21:15:04,955 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:04,955 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:05,829 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:05,832 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:05,832 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:05,832 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:05,833 [INFO] Starting cycle at 2025-09-02T04:15:05.833082+00:00
+2025-09-01 21:15:06,145 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:06,146 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:07,220 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:07,222 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:07,222 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:07,222 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:07,223 [INFO] Starting cycle at 2025-09-02T04:15:07.222981+00:00
+2025-09-01 21:15:07,651 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:07,652 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:08,623 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:08,628 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:08,628 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:08,629 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:08,629 [INFO] Starting cycle at 2025-09-02T04:15:08.629359+00:00
+2025-09-01 21:15:09,011 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:09,012 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:10,121 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:10,125 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:10,128 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:10,144 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:10,152 [INFO] Starting cycle at 2025-09-02T04:15:10.152470+00:00
+2025-09-01 21:15:10,542 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:10,542 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:11,437 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:11,439 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:11,439 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:11,439 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:11,440 [INFO] Starting cycle at 2025-09-02T04:15:11.440107+00:00
+2025-09-01 21:15:11,821 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:11,821 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:12,951 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:12,956 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:12,959 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:12,978 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:12,986 [INFO] Starting cycle at 2025-09-02T04:15:12.986704+00:00
+2025-09-01 21:15:13,409 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:13,409 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:14,487 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:14,488 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:14,489 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:14,489 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:14,489 [INFO] Starting cycle at 2025-09-02T04:15:14.489929+00:00
+2025-09-01 21:15:14,870 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:14,870 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:15,822 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:15,824 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:15,824 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:15,825 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:15,825 [INFO] Starting cycle at 2025-09-02T04:15:15.825305+00:00
+2025-09-01 21:15:16,030 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:16,030 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:16,827 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:16,829 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:16,829 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:16,829 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:16,830 [INFO] Starting cycle at 2025-09-02T04:15:16.830157+00:00
+2025-09-01 21:15:17,200 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:17,200 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:18,125 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:18,128 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:18,128 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:18,129 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:18,129 [INFO] Starting cycle at 2025-09-02T04:15:18.129363+00:00
+2025-09-01 21:15:18,535 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:18,536 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:19,501 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:19,503 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:19,503 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:19,504 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:19,504 [INFO] Starting cycle at 2025-09-02T04:15:19.504489+00:00
+2025-09-01 21:15:19,884 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:19,885 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:20,763 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:20,765 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:20,765 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:20,765 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:20,766 [INFO] Starting cycle at 2025-09-02T04:15:20.766553+00:00
+2025-09-01 21:15:21,096 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:21,096 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:22,062 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:22,065 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:22,066 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:22,066 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:22,067 [INFO] Starting cycle at 2025-09-02T04:15:22.067158+00:00
+2025-09-01 21:15:22,237 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:22,238 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:23,087 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:23,088 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:23,089 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:23,089 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:23,089 [INFO] Starting cycle at 2025-09-02T04:15:23.089807+00:00
+2025-09-01 21:15:23,261 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:23,262 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:24,210 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:24,211 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:24,212 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:24,212 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:24,212 [INFO] Starting cycle at 2025-09-02T04:15:24.212574+00:00
+2025-09-01 21:15:24,528 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:24,528 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:25,894 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:25,973 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:26,019 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:26,020 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:26,020 [INFO] Starting cycle at 2025-09-02T04:15:26.020963+00:00
+2025-09-01 21:15:26,219 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:26,219 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:27,003 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:27,014 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:27,015 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:27,024 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:27,028 [INFO] Starting cycle at 2025-09-02T04:15:27.028811+00:00
+2025-09-01 21:15:27,204 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:27,205 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:28,195 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:28,196 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:28,197 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:28,197 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:28,197 [INFO] Starting cycle at 2025-09-02T04:15:28.197679+00:00
+2025-09-01 21:15:28,394 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:15:28,394 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:15:29,176 [ERROR] Failed to fetch Bitso price: 0
+2025-09-01 21:15:29,178 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110234.00
+2025-09-01 21:15:29,178 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-01T21:09:05+00:00
+2025-09-01 21:15:29,178 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:15:29,179 [INFO] Starting cycle at 2025-09-02T04:15:29.179077+00:00
+2025-09-01 21:19:19,169 [INFO] Successfully connected to Google Sheets
+2025-09-01 21:19:19,169 [INFO] Initialized Pushover client
+2025-09-01 21:19:19,170 [INFO] Starting cycle at 2025-09-02T04:19:19.170044+00:00
+2025-09-01 21:19:19,600 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:19:19,600 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:19:20,450 [INFO] Fetched Bitso price: $110432.00
+2025-09-01 21:19:20,452 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110432.00
+2025-09-01 21:19:20,455 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-02T04:21:05+00:00
+2025-09-01 21:19:20,455 [INFO] Awaiting next execution... 104 seconds remaining
+2025-09-01 21:19:30,456 [INFO] Awaiting next execution... 94 seconds remaining
+2025-09-01 21:19:40,457 [INFO] Awaiting next execution... 84 seconds remaining
+2025-09-01 21:19:50,458 [INFO] Awaiting next execution... 74 seconds remaining
+2025-09-01 21:20:00,459 [INFO] Awaiting next execution... 64 seconds remaining
+2025-09-01 21:20:10,460 [INFO] Awaiting next execution... 54 seconds remaining
+2025-09-01 21:20:20,461 [INFO] Awaiting next execution... 44 seconds remaining
+2025-09-01 21:20:30,461 [INFO] Awaiting next execution... 34 seconds remaining
+2025-09-01 21:20:40,462 [INFO] Awaiting next execution... 24 seconds remaining
+2025-09-01 21:20:50,464 [INFO] Awaiting next execution... 14 seconds remaining
+2025-09-01 21:21:00,465 [INFO] Awaiting next execution... 4 seconds remaining
+2025-09-01 21:21:05,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:21:05,001 [INFO] Starting cycle at 2025-09-02T04:21:05.001453+00:00
+2025-09-01 21:21:05,521 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:21:05,522 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:21:06,229 [INFO] Fetched Bitso price: $110376.00
+2025-09-01 21:21:06,230 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110376.00
+2025-09-01 21:21:06,231 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-02T04:24:05+00:00
+2025-09-01 21:21:06,231 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:21:16,232 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:21:26,233 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:21:36,234 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:21:46,235 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:21:56,236 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:22:06,237 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:22:16,238 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:22:26,240 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:22:36,241 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:22:46,242 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:22:56,244 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:23:06,245 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:23:16,246 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:23:26,247 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:23:36,248 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:23:46,248 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:23:56,249 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:24:05,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:24:05,001 [INFO] Starting cycle at 2025-09-02T04:24:05.001800+00:00
+2025-09-01 21:24:05,453 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:24:05,454 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:24:06,143 [INFO] Fetched Bitso price: $110365.00
+2025-09-01 21:24:06,145 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110365.00
+2025-09-01 21:24:06,145 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-02T04:27:05+00:00
+2025-09-01 21:24:06,146 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:24:16,147 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:24:26,148 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:24:36,148 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:24:46,149 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:24:56,150 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:25:06,152 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:25:16,154 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:25:26,155 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:25:36,156 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:25:46,156 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:25:56,158 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:26:06,158 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:26:16,160 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:26:26,161 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:26:36,162 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:26:46,164 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:26:56,165 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:27:05,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:27:05,001 [INFO] Starting cycle at 2025-09-02T04:27:05.001360+00:00
+2025-09-01 21:27:05,451 [INFO] Retrieved 10 rows from Google Sheets
+2025-09-01 21:27:05,452 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:27:06,337 [INFO] Fetched Bitso price: $110287.00
+2025-09-01 21:27:06,339 [INFO] Processing alert: sell_signal, Price: $110234.00, Current Price: $110287.00
+2025-09-01 21:27:06,340 [INFO] Calculated next execution from signal time 9/1/2025 21:06:00: 2025-09-02T04:30:05+00:00
+2025-09-01 21:27:06,340 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:27:16,340 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:27:26,341 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:27:36,342 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:27:46,343 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:27:56,344 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:28:06,347 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:28:16,348 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:28:26,348 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:28:36,349 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:28:46,351 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:28:56,352 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:29:06,353 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:29:16,354 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:29:26,354 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:29:36,355 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:29:46,356 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:29:56,357 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:30:05,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:30:05,001 [INFO] Starting cycle at 2025-09-02T04:30:05.001630+00:00
+2025-09-01 21:30:05,420 [INFO] Retrieved 11 rows from Google Sheets
+2025-09-01 21:30:05,421 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:30:06,382 [INFO] Fetched Bitso price: $110353.00
+2025-09-01 21:30:06,384 [INFO] Processing alert: sell_signal, Price: $110287.00, Current Price: $110353.00
+2025-09-01 21:30:06,384 [INFO] Calculated next execution from signal time 9/1/2025 21:24:00: 2025-09-02T04:33:05+00:00
+2025-09-01 21:30:06,385 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:30:16,385 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:30:26,386 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:30:36,387 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:30:46,387 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:30:56,388 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:31:06,389 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:31:16,390 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:31:26,391 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:31:36,394 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:31:46,395 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:31:56,396 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:32:06,397 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:32:16,398 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:32:26,399 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:32:36,401 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:32:46,402 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:32:56,403 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:33:05,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:33:05,002 [INFO] Starting cycle at 2025-09-02T04:33:05.002603+00:00
+2025-09-01 21:33:05,620 [INFO] Retrieved 11 rows from Google Sheets
+2025-09-01 21:33:05,621 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:33:06,485 [INFO] Fetched Bitso price: $110257.00
+2025-09-01 21:33:06,487 [INFO] Processing alert: sell_signal, Price: $110287.00, Current Price: $110257.00
+2025-09-01 21:33:06,487 [INFO] Calculated next execution from signal time 9/1/2025 21:24:00: 2025-09-02T04:36:05+00:00
+2025-09-01 21:33:06,487 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:33:16,489 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:33:26,489 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:33:36,491 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:33:46,493 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:33:56,493 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:34:06,494 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:34:16,495 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:34:26,496 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:34:36,498 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:34:46,499 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:34:56,500 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:35:06,501 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:35:16,502 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:35:26,503 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:35:36,506 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:35:46,507 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:35:56,507 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:36:05,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:36:05,001 [INFO] Starting cycle at 2025-09-02T04:36:05.001410+00:00
+2025-09-01 21:36:05,296 [INFO] Retrieved 12 rows from Google Sheets
+2025-09-01 21:36:05,296 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:36:06,175 [INFO] Fetched Bitso price: $110279.00
+2025-09-01 21:36:06,177 [INFO] Processing alert: sell_signal, Price: $110257.00, Current Price: $110279.00
+2025-09-01 21:36:06,177 [INFO] Calculated next execution from signal time 9/1/2025 21:30:00: 2025-09-02T04:39:05+00:00
+2025-09-01 21:36:06,178 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:36:16,178 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:36:26,179 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:36:43,702 [INFO] Successfully connected to Google Sheets
+2025-09-01 21:36:43,707 [INFO] Initialized Pushover client
+2025-09-01 21:36:43,707 [INFO] Starting cycle at 2025-09-02T04:36:43.707868+00:00
+2025-09-01 21:36:44,072 [INFO] Retrieved 13 rows from Google Sheets
+2025-09-01 21:36:44,072 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:36:44,991 [INFO] Fetched Bitso price: $110243.00
+2025-09-01 21:36:44,993 [INFO] Processing alert: sell_signal, Price: $110279.00, Current Price: $110243.00
+2025-09-01 21:36:44,997 [INFO] Calculated next execution from signal time 9/1/2025 21:33:00: 2025-09-02T04:39:20+00:00
+2025-09-01 21:36:44,998 [INFO] Awaiting next execution... 155 seconds remaining
+2025-09-01 21:36:54,998 [INFO] Awaiting next execution... 145 seconds remaining
+2025-09-01 21:37:04,999 [INFO] Awaiting next execution... 135 seconds remaining
+2025-09-01 21:37:15,000 [INFO] Awaiting next execution... 124 seconds remaining
+2025-09-01 21:37:25,001 [INFO] Awaiting next execution... 114 seconds remaining
+2025-09-01 21:37:35,002 [INFO] Awaiting next execution... 104 seconds remaining
+2025-09-01 21:37:45,003 [INFO] Awaiting next execution... 94 seconds remaining
+2025-09-01 21:37:55,004 [INFO] Awaiting next execution... 84 seconds remaining
+2025-09-01 21:38:05,006 [INFO] Awaiting next execution... 74 seconds remaining
+2025-09-01 21:38:15,007 [INFO] Awaiting next execution... 64 seconds remaining
+2025-09-01 21:38:25,008 [INFO] Awaiting next execution... 54 seconds remaining
+2025-09-01 21:38:35,009 [INFO] Awaiting next execution... 44 seconds remaining
+2025-09-01 21:38:45,010 [INFO] Awaiting next execution... 34 seconds remaining
+2025-09-01 21:38:55,011 [INFO] Awaiting next execution... 24 seconds remaining
+2025-09-01 21:39:05,012 [INFO] Awaiting next execution... 14 seconds remaining
+2025-09-01 21:39:15,013 [INFO] Awaiting next execution... 4 seconds remaining
+2025-09-01 21:39:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:39:20,002 [INFO] Starting cycle at 2025-09-02T04:39:20.002285+00:00
+2025-09-01 21:39:20,497 [INFO] Retrieved 14 rows from Google Sheets
+2025-09-01 21:39:20,498 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:39:21,450 [INFO] Fetched Bitso price: $110212.00
+2025-09-01 21:39:21,452 [INFO] Processing alert: sell_signal, Price: $110232.00, Current Price: $110212.00
+2025-09-01 21:39:21,452 [INFO] Calculated next execution from signal time 9/1/2025 21:36:00: 2025-09-02T04:42:20+00:00
+2025-09-01 21:39:21,453 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:39:31,454 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:39:41,455 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:39:51,456 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:40:01,457 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:40:11,460 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:40:21,461 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:40:31,463 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:40:41,500 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:40:51,501 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:41:01,502 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:41:11,503 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:41:21,504 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:41:31,505 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:41:41,506 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:41:51,508 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:42:01,509 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:42:11,510 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:42:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:42:20,001 [INFO] Starting cycle at 2025-09-02T04:42:20.001555+00:00
+2025-09-01 21:42:20,629 [INFO] Retrieved 14 rows from Google Sheets
+2025-09-01 21:42:20,629 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:42:21,579 [INFO] Fetched Bitso price: $110304.00
+2025-09-01 21:42:21,580 [INFO] Processing alert: sell_signal, Price: $110232.00, Current Price: $110304.00
+2025-09-01 21:42:21,583 [INFO] Calculated next execution from signal time 9/1/2025 21:36:00: 2025-09-02T04:45:20+00:00
+2025-09-01 21:42:21,583 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:42:31,584 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:42:41,585 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:42:51,586 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:43:01,587 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:43:11,588 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:43:21,589 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:43:31,593 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:43:41,594 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:43:51,595 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:44:01,596 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:44:11,597 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:44:21,598 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:44:31,599 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:44:41,600 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:44:51,601 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:45:01,602 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:45:11,604 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:45:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:45:20,002 [INFO] Starting cycle at 2025-09-02T04:45:20.002070+00:00
+2025-09-01 21:45:20,293 [INFO] Retrieved 14 rows from Google Sheets
+2025-09-01 21:45:20,293 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:45:21,085 [INFO] Fetched Bitso price: $110275.00
+2025-09-01 21:45:21,088 [INFO] Processing alert: sell_signal, Price: $110232.00, Current Price: $110275.00
+2025-09-01 21:45:21,088 [INFO] Calculated next execution from signal time 9/1/2025 21:36:00: 2025-09-02T04:48:20+00:00
+2025-09-01 21:45:21,089 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:45:31,089 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:45:41,090 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:45:51,091 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:46:01,092 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:46:11,093 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:46:21,095 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:46:31,096 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:46:41,097 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:46:51,097 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:47:01,098 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:47:11,098 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:47:21,099 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:47:31,100 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:47:41,101 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:47:51,102 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:48:01,103 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:48:11,104 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:48:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:48:20,001 [INFO] Starting cycle at 2025-09-02T04:48:20.001093+00:00
+2025-09-01 21:48:20,486 [INFO] Retrieved 14 rows from Google Sheets
+2025-09-01 21:48:20,486 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:48:21,284 [INFO] Fetched Bitso price: $110287.00
+2025-09-01 21:48:21,285 [INFO] Processing alert: sell_signal, Price: $110232.00, Current Price: $110287.00
+2025-09-01 21:48:21,286 [INFO] Calculated next execution from signal time 9/1/2025 21:36:00: 2025-09-02T04:51:20+00:00
+2025-09-01 21:48:21,286 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:48:31,287 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:48:41,287 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:48:51,289 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:49:01,289 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:49:11,290 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:49:21,292 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:49:31,293 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:49:41,294 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:49:51,295 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:50:01,296 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:50:11,297 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:50:21,298 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:50:31,299 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:50:41,300 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:50:51,301 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:51:01,302 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:51:11,302 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:51:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:51:20,001 [INFO] Starting cycle at 2025-09-02T04:51:20.001400+00:00
+2025-09-01 21:51:20,481 [INFO] Retrieved 15 rows from Google Sheets
+2025-09-01 21:51:20,482 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:51:21,470 [INFO] Fetched Bitso price: $110215.00
+2025-09-01 21:51:21,473 [INFO] Processing alert: sell_signal, Price: $110211.00, Current Price: $110215.00
+2025-09-01 21:51:21,473 [INFO] Calculated next execution from signal time 9/1/2025 21:48:00: 2025-09-02T04:54:20+00:00
+2025-09-01 21:51:21,473 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:51:31,474 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:51:41,475 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:51:51,476 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:52:01,477 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:52:11,478 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:52:21,481 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:52:31,482 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:52:41,483 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:52:51,484 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:53:01,485 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:53:11,486 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:53:21,487 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:53:31,488 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:53:41,489 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:53:51,490 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:54:01,490 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:54:11,492 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:54:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:54:20,001 [INFO] Starting cycle at 2025-09-02T04:54:20.001224+00:00
+2025-09-01 21:54:20,519 [INFO] Retrieved 15 rows from Google Sheets
+2025-09-01 21:54:20,519 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:54:21,288 [INFO] Fetched Bitso price: $110178.00
+2025-09-01 21:54:21,290 [INFO] Processing alert: sell_signal, Price: $110211.00, Current Price: $110178.00
+2025-09-01 21:54:21,290 [INFO] Calculated next execution from signal time 9/1/2025 21:48:00: 2025-09-02T04:57:20+00:00
+2025-09-01 21:54:21,290 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 21:54:31,291 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 21:54:41,292 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 21:54:51,295 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 21:55:01,297 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 21:55:11,298 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 21:55:21,299 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 21:55:31,299 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 21:55:41,300 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 21:55:51,302 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 21:56:01,303 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 21:56:11,311 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 21:56:21,316 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 21:56:31,344 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 21:56:41,353 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 21:56:51,353 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 21:57:01,354 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 21:57:11,355 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 21:57:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 21:57:20,001 [INFO] Starting cycle at 2025-09-02T04:57:20.001834+00:00
+2025-09-01 21:57:20,284 [INFO] Retrieved 16 rows from Google Sheets
+2025-09-01 21:57:20,285 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 21:57:22,119 [INFO] Fetched Bitso price: $110283.00
+2025-09-01 21:57:22,120 [INFO] Processing alert: sell_signal, Price: $110178.00, Current Price: $110283.00
+2025-09-01 21:57:22,121 [INFO] Calculated next execution from signal time 9/1/2025 21:51:00: 2025-09-02T05:00:20+00:00
+2025-09-01 21:57:22,121 [INFO] Awaiting next execution... 177 seconds remaining
+2025-09-01 21:57:32,122 [INFO] Awaiting next execution... 167 seconds remaining
+2025-09-01 21:57:42,122 [INFO] Awaiting next execution... 157 seconds remaining
+2025-09-01 21:57:52,123 [INFO] Awaiting next execution... 147 seconds remaining
+2025-09-01 21:58:02,124 [INFO] Awaiting next execution... 137 seconds remaining
+2025-09-01 21:58:12,125 [INFO] Awaiting next execution... 127 seconds remaining
+2025-09-01 21:58:22,125 [INFO] Awaiting next execution... 117 seconds remaining
+2025-09-01 21:58:32,126 [INFO] Awaiting next execution... 107 seconds remaining
+2025-09-01 21:58:42,127 [INFO] Awaiting next execution... 97 seconds remaining
+2025-09-01 21:58:52,128 [INFO] Awaiting next execution... 87 seconds remaining
+2025-09-01 21:59:02,129 [INFO] Awaiting next execution... 77 seconds remaining
+2025-09-01 21:59:12,129 [INFO] Awaiting next execution... 67 seconds remaining
+2025-09-01 21:59:22,130 [INFO] Awaiting next execution... 57 seconds remaining
+2025-09-01 21:59:32,131 [INFO] Awaiting next execution... 47 seconds remaining
+2025-09-01 21:59:42,132 [INFO] Awaiting next execution... 37 seconds remaining
+2025-09-01 21:59:52,132 [INFO] Awaiting next execution... 27 seconds remaining
+2025-09-01 22:00:02,133 [INFO] Awaiting next execution... 17 seconds remaining
+2025-09-01 22:00:12,144 [INFO] Awaiting next execution... 7 seconds remaining
+2025-09-01 22:00:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:00:20,001 [INFO] Starting cycle at 2025-09-02T05:00:20.001244+00:00
+2025-09-01 22:00:20,363 [INFO] Retrieved 16 rows from Google Sheets
+2025-09-01 22:00:20,364 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:00:21,477 [INFO] Fetched Bitso price: $110301.00
+2025-09-01 22:00:21,479 [INFO] Processing alert: sell_signal, Price: $110178.00, Current Price: $110301.00
+2025-09-01 22:00:21,480 [INFO] Calculated next execution from signal time 9/1/2025 21:51:00: 2025-09-02T05:03:20+00:00
+2025-09-01 22:00:21,480 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:00:31,481 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:00:41,483 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:00:51,483 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:01:01,484 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:01:11,485 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:01:21,504 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:01:31,533 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:01:41,534 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:01:51,535 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:02:01,535 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:02:11,537 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:02:21,538 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:02:31,550 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:02:41,550 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:02:51,551 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:03:01,553 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:03:11,554 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:03:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:03:20,002 [INFO] Starting cycle at 2025-09-02T05:03:20.002749+00:00
+2025-09-01 22:03:20,421 [INFO] Retrieved 16 rows from Google Sheets
+2025-09-01 22:03:20,421 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:03:21,437 [INFO] Fetched Bitso price: $110268.00
+2025-09-01 22:03:21,438 [INFO] Processing alert: sell_signal, Price: $110178.00, Current Price: $110268.00
+2025-09-01 22:03:21,439 [INFO] Calculated next execution from signal time 9/1/2025 21:51:00: 2025-09-02T05:06:20+00:00
+2025-09-01 22:03:21,439 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:03:31,440 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:03:41,446 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:03:51,446 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:04:01,448 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:04:11,449 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:04:21,449 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:04:31,450 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:04:41,453 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:04:51,453 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:05:01,454 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:05:11,455 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:05:21,456 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:05:31,459 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:05:41,460 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:05:51,461 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:06:01,462 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:06:11,463 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:06:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:06:20,001 [INFO] Starting cycle at 2025-09-02T05:06:20.001678+00:00
+2025-09-01 22:06:20,514 [INFO] Retrieved 16 rows from Google Sheets
+2025-09-01 22:06:20,514 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:06:21,326 [INFO] Fetched Bitso price: $110213.00
+2025-09-01 22:06:21,327 [INFO] Processing alert: sell_signal, Price: $110178.00, Current Price: $110213.00
+2025-09-01 22:06:21,328 [INFO] Calculated next execution from signal time 9/1/2025 21:51:00: 2025-09-02T05:09:20+00:00
+2025-09-01 22:06:21,328 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:06:31,329 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:06:41,330 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:06:51,342 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:07:01,377 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:07:11,379 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:07:21,380 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:07:31,381 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:07:41,382 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:07:51,383 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:08:01,385 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:08:11,386 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:08:21,387 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:08:31,388 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:08:41,389 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:08:51,390 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:09:01,391 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:09:11,392 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:09:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:09:20,001 [INFO] Starting cycle at 2025-09-02T05:09:20.001350+00:00
+2025-09-01 22:09:20,555 [INFO] Retrieved 18 rows from Google Sheets
+2025-09-01 22:09:20,556 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:09:21,393 [INFO] Fetched Bitso price: $110082.00
+2025-09-01 22:09:21,395 [INFO] Processing alert: sell_signal, Price: $110082.00, Current Price: $110082.00
+2025-09-01 22:09:21,396 [INFO] Calculated next execution from signal time 9/1/2025 22:06:00: 2025-09-02T05:12:20+00:00
+2025-09-01 22:09:21,396 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:09:31,397 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:09:41,398 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:09:51,399 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:10:01,400 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:10:11,401 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:10:21,402 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:10:31,404 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:10:41,405 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:10:51,406 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:11:01,407 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:11:11,408 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:11:21,409 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:11:31,410 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:11:41,411 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:11:51,412 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:12:01,413 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:12:11,414 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:12:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:12:20,001 [INFO] Starting cycle at 2025-09-02T05:12:20.001793+00:00
+2025-09-01 22:12:20,598 [INFO] Retrieved 18 rows from Google Sheets
+2025-09-01 22:12:20,599 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:12:21,579 [INFO] Fetched Bitso price: $110067.00
+2025-09-01 22:12:21,580 [INFO] Processing alert: sell_signal, Price: $110082.00, Current Price: $110067.00
+2025-09-01 22:12:21,581 [INFO] Calculated next execution from signal time 9/1/2025 22:06:00: 2025-09-02T05:15:20+00:00
+2025-09-01 22:12:21,581 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:12:31,582 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:12:41,582 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:12:51,583 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:13:01,585 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:13:11,585 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:13:21,586 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:13:31,587 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:13:41,588 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:13:51,589 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:14:01,595 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:14:11,596 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:14:21,597 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:14:31,597 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:14:41,599 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:14:51,625 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:15:01,630 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:15:11,632 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:15:20,001 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:15:20,015 [INFO] Starting cycle at 2025-09-02T05:15:20.015792+00:00
+2025-09-01 22:15:20,275 [INFO] Retrieved 19 rows from Google Sheets
+2025-09-01 22:15:20,276 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:15:21,213 [INFO] Fetched Bitso price: $110171.00
+2025-09-01 22:15:21,215 [INFO] Processing alert: sell_signal, Price: $110067.00, Current Price: $110171.00
+2025-09-01 22:15:21,215 [INFO] Calculated next execution from signal time 9/1/2025 22:09:00: 2025-09-02T05:18:20+00:00
+2025-09-01 22:15:21,216 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:15:31,216 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:15:41,218 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:15:51,219 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:16:01,219 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:16:11,220 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:16:21,221 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:16:31,221 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:16:41,223 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:16:51,224 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:17:01,225 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:17:11,227 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:17:21,229 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:17:31,230 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:17:41,231 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:17:51,233 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:18:01,233 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:18:11,234 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:18:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:18:20,001 [INFO] Starting cycle at 2025-09-02T05:18:20.001444+00:00
+2025-09-01 22:18:20,572 [INFO] Retrieved 20 rows from Google Sheets
+2025-09-01 22:18:20,573 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:18:21,446 [INFO] Fetched Bitso price: $110226.00
+2025-09-01 22:18:21,447 [INFO] Processing alert: sell_signal, Price: $110171.00, Current Price: $110226.00
+2025-09-01 22:18:21,448 [INFO] Calculated next execution from signal time 9/1/2025 22:12:00: 2025-09-02T05:21:20+00:00
+2025-09-01 22:18:21,448 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:18:31,449 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:18:41,450 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:18:51,452 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:19:01,454 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:19:11,455 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:19:21,456 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:19:31,457 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:19:41,458 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:19:51,458 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:20:01,462 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:20:11,463 [INFO] Awaiting next execution... 68 seconds remaining
+2025-09-01 22:20:21,463 [INFO] Awaiting next execution... 58 seconds remaining
+2025-09-01 22:20:31,464 [INFO] Awaiting next execution... 48 seconds remaining
+2025-09-01 22:20:41,466 [INFO] Awaiting next execution... 38 seconds remaining
+2025-09-01 22:20:51,466 [INFO] Awaiting next execution... 28 seconds remaining
+2025-09-01 22:21:01,467 [INFO] Awaiting next execution... 18 seconds remaining
+2025-09-01 22:21:11,468 [INFO] Awaiting next execution... 8 seconds remaining
+2025-09-01 22:21:20,000 [INFO] Cycle completed, starting next cycle
+2025-09-01 22:21:20,002 [INFO] Starting cycle at 2025-09-02T05:21:20.002789+00:00
+2025-09-01 22:21:20,287 [INFO] Retrieved 20 rows from Google Sheets
+2025-09-01 22:21:20,288 [INFO] Found 0 open positions, 1 new alerts
+2025-09-01 22:21:21,206 [INFO] Fetched Bitso price: $110234.00
+2025-09-01 22:21:21,209 [INFO] Processing alert: sell_signal, Price: $110171.00, Current Price: $110234.00
+2025-09-01 22:21:21,211 [INFO] Calculated next execution from signal time 9/1/2025 22:12:00: 2025-09-02T05:24:20+00:00
+2025-09-01 22:21:21,212 [INFO] Awaiting next execution... 178 seconds remaining
+2025-09-01 22:21:31,213 [INFO] Awaiting next execution... 168 seconds remaining
+2025-09-01 22:21:41,214 [INFO] Awaiting next execution... 158 seconds remaining
+2025-09-01 22:21:51,214 [INFO] Awaiting next execution... 148 seconds remaining
+2025-09-01 22:22:01,215 [INFO] Awaiting next execution... 138 seconds remaining
+2025-09-01 22:22:11,217 [INFO] Awaiting next execution... 128 seconds remaining
+2025-09-01 22:22:21,218 [INFO] Awaiting next execution... 118 seconds remaining
+2025-09-01 22:22:31,219 [INFO] Awaiting next execution... 108 seconds remaining
+2025-09-01 22:22:41,220 [INFO] Awaiting next execution... 98 seconds remaining
+2025-09-01 22:22:51,221 [INFO] Awaiting next execution... 88 seconds remaining
+2025-09-01 22:23:01,223 [INFO] Awaiting next execution... 78 seconds remaining
+2025-09-01 22:23:11,224 [INFO] Awaiting next execution... 68 seconds remaining
